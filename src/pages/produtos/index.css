@@ -1,0 +1,12 @@
+.table button{
+    border-radius: 20px ;
+}
+
+.botoes{
+    text-align: center;
+}
+
+.btn-warning,
+.btn-danger{
+    margin-right: 3px;
+}
